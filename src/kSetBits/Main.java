@@ -51,7 +51,7 @@ class Solution {
          quotient /= 2;
       }
 
-      return list.;
+      return list;
    }
 
 }
