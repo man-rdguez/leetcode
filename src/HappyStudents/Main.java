@@ -51,6 +51,7 @@ public class Main {
 
    public static void main(String[] args) {
 
+      // Test with at least two cases
       List<Integer> list = new ArrayList<>(Arrays.asList( 6,0,3,3,6,7,2,7 ) );
       Solution solution = new Solution();
       System.out.println( solution.countWays( list ) );
